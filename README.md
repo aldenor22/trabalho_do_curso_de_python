@@ -1,4 +1,4 @@
-#Trabalho de conclusão do curso
+Trabalho de conclusão do curso
 
 Tema: Cultura e Lazer
 
