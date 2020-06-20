@@ -1,5 +1,5 @@
 <h1><p  align="center">Trabalho Final do Curso de Python</p></h1>
-<h3 align="left">Aldenor Tomaz Bezerra</h3>
+<h3 align="right">Aldenor Tomaz Bezerra</h3>
 <h2>Tema: Cultura e Lazer</h2>
 <h2>Objetivo do trabalho:</h2>
 <p>Solucionar a falta de informação gráfica para esclarecer a notícia sobre a desigualdade  de acesso a equipamentos culturais e meios de comunicação entre a população preta e branca, sobre os gastos familiar no setor cultural e sobre as pessos ocupadas nesse setor.</p>
