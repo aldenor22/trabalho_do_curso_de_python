@@ -15,3 +15,6 @@
 <p>Essa <a href= "https://agenciabrasil.ebc.com.br/geral/noticia/2019-12/gasto-familiar-com-cultura-revela-desigualdade-diz-pesquisa">  notícia</a> da AgênciaBrasil, cujo o título é "Gastos familiar com cultura revela desigualdade", fala sobre trabalho no setor cultural e desigualdade social entre pretos e brancos. Torná-la clara ajuda a entender melhor os objetivos 8 e 10 da Agenda 2030 que são, respectivamente, promover o trabalho descente e crescimento econômico e redução das desigualdades</p>
 <h2>Método:</h2>
 <p>Usar a linguagem de programação Python para desenvolver uma aplicação capaz de gerar os gráficos  com o propósito  de esclarecer os dados numérico da notícia, utilizando as bibliotecas matplotlib, pandas, numpy e seus submultiplots.</p>
+
+![tenor](https://user-images.githubusercontent.com/66085641/85237437-49887980-b3fd-11ea-8e40-f3eb337a6cd3.gif)
+
