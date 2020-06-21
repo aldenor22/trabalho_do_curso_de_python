@@ -2,8 +2,7 @@
 <h3 align="right"><i>Aldenor Tomaz Bezerra</i><br/><i>Paulo Henrique Soares</i></h3>
 
 ![download](https://user-images.githubusercontent.com/66085641/85236280-00332c80-b3f3-11ea-8677-4c697211cba4.png)
-
-
+<h3>Instituto Metrópole Digital</>
 <h2>Tema: Cultura e Lazer</h2>
 <h2>Objetivo do trabalho:</h2>
 <p>Solucionar a falta de informação gráfica para esclarecer a notícia sobre a desigualdade  de acesso a equipamentos culturais e meios de comunicação entre a população preta e branca, sobre os gastos familiar no setor cultural e sobre as pessos ocupadas nesse setor.</p>
