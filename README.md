@@ -3,6 +3,8 @@
 
 ![IMD](https://user-images.githubusercontent.com/66085641/85236510-f3173d00-b3f4-11ea-8a2a-eb43f503f68d.jpg)
 
+![Integra_School](https://user-images.githubusercontent.com/66085641/85236675-5e154380-b3f6-11ea-9b93-442793296196.jpg)
+
 <h2>Tema: Cultura e Lazer</h2>
 <h2>Objetivo do trabalho:</h2>
 <p>Solucionar a falta de informação gráfica para esclarecer a notícia sobre a desigualdade  de acesso a equipamentos culturais e meios de comunicação entre a população preta e branca, sobre os gastos familiar no setor cultural e sobre as pessos ocupadas nesse setor.</p>
