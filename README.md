@@ -16,5 +16,7 @@
 <h2>Método:</h2>
 <p>Usar a linguagem de programação Python para desenvolver uma aplicação capaz de gerar os gráficos  com o propósito  de esclarecer os dados numérico da notícia, utilizando as bibliotecas matplotlib, pandas, numpy e seus submultiplots.</p>
 
+<h2>Vamos lá!!!</h2>
+
 ![tenor](https://user-images.githubusercontent.com/66085641/85237437-49887980-b3fd-11ea-8e40-f3eb337a6cd3.gif)
 
