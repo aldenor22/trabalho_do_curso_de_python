@@ -7,6 +7,7 @@
 ![UFRN](https://user-images.githubusercontent.com/66085641/85236836-ddefdd80-b3f7-11ea-8363-36477364110e.jpg)
 
 <h3 align="left"><i><b>Aldenor Tomaz Bezerra</b></i><br/><i><b>Paulo Henrique Soares</b></i></h3>
+<hr/>
 <h2>Tema: Cultura e Lazer</h2>
 <h2>Objetivo do trabalho:</h2>
 <p>Solucionar a falta de informação gráfica para esclarecer a notícia sobre a desigualdade  de acesso a equipamentos culturais e meios de comunicação entre a população preta e branca, sobre os gastos familiar no setor cultural e sobre as pessos ocupadas nesse setor.</p>
