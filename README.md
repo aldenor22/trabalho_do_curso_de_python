@@ -1,4 +1,4 @@
-<h1><p  align="center">Formação Em Python</p></h1>
+<h1><p  align="center"><b>Formação Em Python</p></b></h1>
 
 ![IMD](https://user-images.githubusercontent.com/66085641/85236510-f3173d00-b3f4-11ea-8a2a-eb43f503f68d.jpg)
 
