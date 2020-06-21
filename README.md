@@ -1,7 +1,8 @@
 <h1><p  align="center">Formação Em Python</p></h1>
 <h3 align="right"><i>Aldenor Tomaz Bezerra</i><br/><i>Paulo Henrique Soares</i></h3>
 
-![20200310_045630](https://user-images.githubusercontent.com/66085641/85236121-530be480-b3f1-11ea-9c5e-2d39a4855500.jpg)
+![download](https://user-images.githubusercontent.com/66085641/85236280-00332c80-b3f3-11ea-8677-4c697211cba4.png)
+
 
 <h2>Tema: Cultura e Lazer</h2>
 <h2>Objetivo do trabalho:</h2>
