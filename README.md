@@ -1,8 +1,8 @@
 <h1><p  align="center">Formação Em Python</p></h1>
 <h3 align="right"><i>Aldenor Tomaz Bezerra</i><br/><i>Paulo Henrique Soares</i></h3>
 
-![download](https://user-images.githubusercontent.com/66085641/85236280-00332c80-b3f3-11ea-8677-4c697211cba4.png)
-<h3>Instituto Metrópole Digital</>
+![IMD](https://user-images.githubusercontent.com/66085641/85236510-f3173d00-b3f4-11ea-8a2a-eb43f503f68d.jpg)
+
 <h2>Tema: Cultura e Lazer</h2>
 <h2>Objetivo do trabalho:</h2>
 <p>Solucionar a falta de informação gráfica para esclarecer a notícia sobre a desigualdade  de acesso a equipamentos culturais e meios de comunicação entre a população preta e branca, sobre os gastos familiar no setor cultural e sobre as pessos ocupadas nesse setor.</p>
