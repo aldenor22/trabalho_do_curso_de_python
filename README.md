@@ -20,14 +20,8 @@
 
 <h2>Vamos lá!!!</h2>
 
-<h2 align="right">Apresentação do trabalho em Vídeos:</h2>
-<p align="right"> O.B.S: O vídeo será disponibilizado, em partes por causa de problemas técnicos, na plataforma on-line OnDrive.</p>
-<p align="right"><a href="https://1drv.ms/v/s!Ag5K8ViIXwJVoCFAvyu2_IxZYkbQ?e=ax2mtF">Vídeo parte 1</a></p>
-<p align="right"><a href="https://1drv.ms/v/s!Ag5K8ViIXwJVoCKy-BNBD8UaquyK?e=4bDQQg">Vídeo parte 2</a></p>
-<p align="right"><a href="https://1drv.ms/v/s!Ag5K8ViIXwJVoCQ-FyA_zOppRqDu?e=P2EZxa">Vídeo Parte 3</a></p>
-<p align="right"><a href="https://1drv.ms/v/s!Ag5K8ViIXwJVoCawkFnScbm539_N?e=TIo2Ln">Vídeo Parte 4</a></p>
-<p align="right"><a href="https://1drv.ms/v/s!Ag5K8ViIXwJVoCceh2XLgr2yC39v?e=Mh6hjT">Vídeo Parte 5</a></p>
-<p align="right"><a href="https://1drv.ms/v/s!Ag5K8ViIXwJVoCj6Lm0u80LsnfzE?e=hKUyXy">Vídeo Parte 6</a></p>
+<h2 align="right">Apresentação do trabalho em Vídeo:</h2>
+<p align="right"><a href="https://drive.google.com/file/d/1CK4BosTHkCbqrCIuXIWbj2Y20ONbu266/view?usp=sharing">Vídeo Explicativo</a></p>
   
   ![tenor](https://user-images.githubusercontent.com/66085641/85237437-49887980-b3fd-11ea-8e40-f3eb337a6cd3.gif)
   
