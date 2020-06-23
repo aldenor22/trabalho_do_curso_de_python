@@ -19,5 +19,8 @@
 
 <h2>Vamos lá!!!</h2>
 
-![tenor](https://user-images.githubusercontent.com/66085641/85237437-49887980-b3fd-11ea-8e40-f3eb337a6cd3.gif)
-
+<h2 align="right">Apresentação do trabalho em Vídeos:</h2>
+<p align="right"><a href="https://1drv.ms/v/s!Ag5K8ViIXwJVoCFAvyu2_IxZYkbQ?e=ax2mtF">Vídeo parte 1</a>
+  
+  ![tenor](https://user-images.githubusercontent.com/66085641/85237437-49887980-b3fd-11ea-8e40-f3eb337a6cd3.gif)
+  
