@@ -21,7 +21,7 @@
 <h2>Vamos lá!!!</h2>
 
 <h2 align="right">Apresentação do trabalho em Vídeos:</h2>
-<p align="right"> O.B.S: O vídeo será disponibilizado em partes por causa de problemas técnicos na plataforma on-line OnDrive.</p>
+<p align="right"> O.B.S: O vídeo será disponibilizado, em partes por causa de problemas técnicos, na plataforma on-line OnDrive.</p>
 <p align="right"><a href="https://1drv.ms/v/s!Ag5K8ViIXwJVoCFAvyu2_IxZYkbQ?e=ax2mtF">Vídeo parte 1</a></p>
 <p align="right"><a href="https://1drv.ms/v/s!Ag5K8ViIXwJVoCKy-BNBD8UaquyK?e=4bDQQg">Vídeo parte 2</a></p>
 <p align="right"><a href="https://1drv.ms/v/s!Ag5K8ViIXwJVoCQ-FyA_zOppRqDu?e=P2EZxa">Vídeo Parte 3</a></p>
