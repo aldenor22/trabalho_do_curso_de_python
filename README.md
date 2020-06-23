@@ -6,8 +6,8 @@
 
 ![UFRN](https://user-images.githubusercontent.com/66085641/85236836-ddefdd80-b3f7-11ea-8363-36477364110e.jpg)
 
-<hr/>
-<h3 align="left"><i><b>Aldenor Tomaz Bezerra</b></i><br/><i><b>Paulo Henrique Soares</b></i></h3><br/><h3 align="left"><i><b>Professor: Carlos Artur Guimarães</b></i></h3>
+<br/><h3 align="left"><i><b>Professor: Carlos Artur Guimarães</b></i></h3><hr/>
+<h3 align="left"><i><b>Aldenor Tomaz Bezerra</b></i><br/><i><b>Paulo Henrique Soares</b></i></h3><hr/>
 
 <h2>Tema: Cultura e Lazer</h2><hr/>
 <h2>Objetivo do trabalho:</h2>
